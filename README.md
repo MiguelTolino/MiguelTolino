@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Tolino</h1>
 <h3 align="center">A passionate and enthusiastic software developer</h3>
 
-- 🔭 I’m currently working on **going deep into C/C++**
+- 🔭 I’m currently working on deep learning of software basics
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/MikelTolino)
 
