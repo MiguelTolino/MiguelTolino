@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel Tolino</h1>
-<h3 align="center">A passionate and enthusiastic software developer</h3>
 
-- 🔭 I’m currently working on deep learning software, **Please do not disturb**
+<h3 align="center">I'm a passionate software developer with leadership skills, deeply interested in agile methodologies and entrepreneurship.🚀</h3>
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/MikelTolino)
+- 👨‍💻 All my projects are available at [Github](https://github.com/MikelTolino)
 
 - 💬 Ask me about everything you want
 
