@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Tolino</h1>
 
-<h3 align="center">I'm a passionate software developer who works mostly in his soft skills, deeply interested in technology and entrepreneurship.🚀</h3>
+<h3 align="center">I'm a passionate software developer who loves learning everyday, deeply interested in technology and entrepreneurship.🚀</h3>
 
 - 👨‍💻 All my projects are available at [Github](https://github.com/MiguelTolino)
 
